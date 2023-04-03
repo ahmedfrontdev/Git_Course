@@ -1,2 +1,2 @@
-# Git_Course
+# Hi
 Training on Git
